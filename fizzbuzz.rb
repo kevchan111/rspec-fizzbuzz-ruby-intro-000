@@ -8,4 +8,4 @@ elsif num % 3 == 0
 else
   return nil
 end
-end 
+end
